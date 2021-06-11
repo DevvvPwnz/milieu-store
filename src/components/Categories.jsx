@@ -15,7 +15,7 @@ const Categories = React.memo(function Categories({ activeCategory,items, onClic
        <span>Фильтр</span>
 
       <svg
-           className={openFilter ? 'rotated' : ''}
+           className={openFilter ? 'rotated' : ''} 
                 width="10"
                 height="6"
                 viewBox="0 0 10 6"

@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "imageUrl": "https://u.makeup.com.ua/a/aa/aa3ds0wspw7x.jpg",
+      "name": "Yves Saint Laurent Mon Paris",
+      "types": [0, 1],
+      "sizes": [30, 50, 90],
+      "price": 63,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://u.makeup.com.ua/n/nq/nqmnqp0ktvo3.jpg",
+      "name": "Yves Saint Laurent Black Opium",
+      "types": [0],
+      "sizes": [30, 50, 90],
+      "price": 55,
+      "category": 0,
+      "rating": 6
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://u.makeup.com.ua/i/ii/iimqbuhqvixj.jpg",
+      "name": "Giorgio Armani Si",
+      "types": [0],
+      "sizes": [30, 50],
+      "price": 70,
+      "category": 1,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://u.makeup.com.ua/e/el/elqiildarv1y.jpg",
+      "name": "Dior Sauvage",
+      "types": [1],
+      "sizes": [50,90],
+      "price": 80,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://u.makeup.com.ua/a/ak/akdvujrfk8yh.jpg",
+      "name": "Dior Miss Dior Blooming Bouquet",
+      "types": [0, 1],
+      "sizes": [30,50,90],
+      "price": 75,
+      "category": 2,
+      "rating": 8
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://u.makeup.com.ua/t/ts/tslcfb81dilx.jpg",
+      "name": "Versace Versense",
+      "types": [0],
+      "sizes": [30,50,90],
+      "price": 40,
+      "category": 3,
+      "rating": 2
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://u.makeup.com.ua/2/2k/2kouxkzykkpf.jpg",
+      "name": "Versace Eros",
+      "types": [0, 1],
+      "sizes": [30,50,90],
+      "price": 40,
+      "category": 3,
+      "rating": 9
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://u.makeup.com.ua/d/dk/dknawiy1tgqf.jpg",
+      "name": "Chanel Coco Mademoiselle",
+      "types": [0, 1],
+      "sizes": [30,50,90],
+      "price": 100,
+      "category": 4,
+      "rating": 10
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://u.makeup.com.ua/0/0j/0jjue3ut0igf.jpg",
+      "name": "Chanel Bleu de Chanel",
+      "types": [0, 1],
+      "sizes": [50,90],
+      "price": 80,
+      "category": 4,
+      "rating": 10
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://u.makeup.com.ua/q/qa/qauzdn4xxauz.jpg",
+      "name": "Chanel Chance Eau Tendre",
+      "types": [0, 1],
+      "sizes": [30,50,90],
+      "price": 120,
+      "category":4,
+      "rating": 7
+    }
+  ]
+}

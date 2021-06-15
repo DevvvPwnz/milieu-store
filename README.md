@@ -1,12 +1,12 @@
 # milieu-store
-ReactJS/React Hooks
-React Skeleton
-React Router
-Redux
-Redux thunk
-json-server
-Axios
-classnames
+* ReactJS/React Hooks
+* React Skeleton
+* React Router
+* Redux
+* Redux thunk
+* json-server
+* Axios
+* classnames
 
 
 In the project directory, you can run:
